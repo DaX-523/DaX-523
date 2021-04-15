@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://kaggle-summary-card.herokuapp.com/api?user=kshitijdhama)
+![](https://kaggle-summary-card.herokuapp.com/api?user=kshitijdhama&)
