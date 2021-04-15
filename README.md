@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 ![](https://kaggle-summary-card.herokuapp.com/api?user=kshitijdhama&)
+![](https://kaggle-summary-card.herokuapp.com/api?user=aakashverma8900&)
+![](https://kaggle-summary-card.herokuapp.com/api?user=heyytanay&)
